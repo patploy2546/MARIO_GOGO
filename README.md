@@ -48,10 +48,14 @@
 
 ให้ทำการกด dropdown ไฟล์ img ตามลูกศรสีเเดง เเล้วเเก้โค้ดดังนี้
      
-     1.ที่class Game บรรทัดที่ 55 copy 
-                    บรรทัดที่ 57
-                    บรรทัดที่ 65
+     1.ที่class Game บรรทัดที่ 55 copy relative ไฟล์ sky.jpg มาเเทนที่ src/img/sky.jpg
+                    
+                    บรรทัดที่ 57 copy relative ไฟล์ background.png  มาเเทนที่ src/img/background.png
+                   
+                   บรรทัดที่ 65 copy relative ไฟล์ heart.png   มาเเทนที่ src/img/heart.png
       
-      2.ที่ class Envoriment บรรทัดที่ 46
+    
+    2.ที่ class Envoriment บรรทัดที่ 53 copy relative ไฟล์ clound.png เเต่เลือกเพียงที่อยู่ไฟล์  มาเเทนที่ src/img
       
-      3.ที่ class Wave บรรทัดที่ 38
+    
+    3.ที่ class Wave บรรทัดที่ 38  copy relative ไฟล์ pipe.png มาเเทนที่ src/img/pipe.png
